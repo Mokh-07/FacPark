@@ -1,0 +1,50 @@
+{"query": "C'est quoi les horaires ?", "source": "Article 1", "type": "factoid"}
+{"query": "Quand est-ce que le parking est ouvert ?", "source": "Article 1", "type": "factoid"}
+{"query": "Est-ce que je peux me garer le dimanche ?", "source": "Article 1", "type": "yes_no"}
+{"query": "Combien de voitures je peux inscrire ?", "source": "Article 5", "type": "factoid"}
+{"query": "J'ai droit à combien de véhicules ?", "source": "Article 5", "type": "factoid"}
+{"query": "Comment obtenir un badge ?", "source": "Article 16", "type": "procedure"}
+{"query": "C'est quoi la procédure pour le badge d'accès ?", "source": "Article 16", "type": "procedure"}
+{"query": "Quels sont les documents pour l'abonnement ?", "source": "Article 16", "type": "list"}
+{"query": "Il faut quoi pour s'inscrire ?", "source": "Article 16", "type": "list"}
+{"query": "C'est quoi le code REF-04 ?", "source": "Article 19", "type": "code"}
+{"query": "Pourquoi mon accès est refusé avec REF-04 ?", "source": "Article 19", "type": "code"}
+{"query": "Quelles sont les sanctions si je triche ?", "source": "Article 14", "type": "list"}
+{"query": "Je risque quoi si je prête mon badge ?", "source": "Article 14", "type": "factoid"}
+{"query": "Est-ce que le parking est surveillé ?", "source": "Article 11", "type": "yes_no"}
+{"query": "Qui est responsable en cas de vol ?", "source": "Article 12", "type": "factoid"}
+{"query": "C'est quoi la vitesse limite ?", "source": "Article 13", "type": "factoid"}
+{"query": "Je peux rouler vite ?", "source": "Article 13", "type": "factoid"}
+{"query": "Refus REF-05 ça veut dire quoi ?", "source": "Article 19", "type": "code"}
+{"query": "Comment renouveler mon abonnement ?", "source": "Article 17", "type": "procedure"}
+{"query": "Les visiteurs ont le droit d'entrer ?", "source": "Article 10", "type": "yes_no"}
+{"query": "C'est réservé aux étudiants ?", "source": "Préambule", "type": "yes_no"}
+{"query": "Je peux garer ma moto ?", "source": "Article 5", "type": "yes_no"}
+{"query": "Les deux-roues sont acceptés ?", "source": "Article 5", "type": "yes_no"}
+{"query": "C'est quoi REF-02 ?", "source": "Article 19", "type": "code"}
+{"query": "Plaque non reconnue, que faire ?", "source": "Article 19", "type": "procedure"}
+{"query": "Ma plaque est sale, ça marche ?", "source": "Article 19", "type": "factoid"}
+{"query": "Il y a des places handicapés ?", "source": "Article 4", "type": "yes_no"}
+{"query": "C'est quoi la zone A ?", "source": "Article 4", "type": "factoid"}
+{"query": "Où se garer en zone B ?", "source": "Article 4", "type": "factoid"}
+{"query": "Le parking ferme à quelle heure ?", "source": "Article 1", "type": "factoid"}
+{"query": "C'est ouvert la nuit ?", "source": "Article 1", "type": "yes_no"}
+{"query": "Je peux laisser ma voiture la nuit ?", "source": "Article 1", "type": "yes_no"}
+{"query": "Sanction pour stationnement gênant ?", "source": "Article 14", "type": "factoid"}
+{"query": "La fourrière peut intervenir ?", "source": "Article 14", "type": "yes_no"}
+{"query": "Comment payer l'abonnement ?", "source": "Article 16", "type": "procedure"}
+{"query": "Tarif mensuel ?", "source": "Annexe A", "type": "factoid"}
+{"query": "C'est combien pour un an ?", "source": "Annexe A", "type": "factoid"}
+{"query": "J'ai perdu mon badge", "source": "Article 18", "type": "procedure"}
+{"query": "Remplacement de badge coût", "source": "Article 2", "type": "factoid"}
+{"query": "Je peux avoir 2 places ?", "source": "Article 4", "type": "yes_no"}
+{"query": "C'est limité à une place par personne ?", "source": "Article 4", "type": "yes_no"}
+{"query": "REF-07 c'est quoi ?", "source": "Article 19", "type": "code"}
+{"query": "Pourquoi accès interdit REF-07 ?", "source": "Article 19", "type": "code"}
+{"query": "Je suis prof, je peux entrer ?", "source": "Préambule", "type": "yes_no"}
+{"query": "Accès personnel administratif", "source": "Préambule", "type": "factoid"}
+{"query": "Mon abonnement est fini", "source": "Article 3", "type": "procedure"}
+{"query": "Délai de renouvellement", "source": "Article 3", "type": "factoid"}
+{"query": "C'est quoi les règles de circulation ?", "source": "Article 13", "type": "list"}
+{"query": "Priorité à droite dans le parking ?", "source": "Article 13", "type": "yes_no"}
+{"query": "Klaxon interdit ?", "source": "Article 13", "type": "yes_no"}
