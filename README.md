@@ -386,30 +386,6 @@ npm run dev
 
 ---
 
-## 📸 Captures d'écran
-
-### Dashboard Étudiant
-![Dashboard Student](docs/screenshots/dashboard-student.png)
-*Interface de gestion des véhicules et abonnements*
-
-### Détection YOLOv11
-![YOLO Detection](docs/screenshots/yolo-detection.png)
-*Reconnaissance de plaques en temps réel avec bounding boxes*
-
-### Assistant Chatbot RAG
-![Chatbot](docs/screenshots/chatbot.png)
-*Assistant virtuel conversationnel pour les questions sur le règlement*
-
-### Dashboard Administrateur
-![Admin Dashboard](docs/screenshots/admin-dashboard.png)
-*Supervision, statistiques et logs d'accès*
-
-### Simulation Barrière
-![Barrier Simulation](docs/screenshots/barrier-simulation.png)
-*Test de détection avec décision d'accès automatique*
-
----
-
 ## 🗺️ Roadmap
 
 ### ✅ Version 1.0 (Actuelle - Février 2026)
