@@ -598,7 +598,7 @@ L'utilisation commerciale nécessite une autorisation explicite.
 
 **Développé avec ❤️ pour l'IIT Sfax**
 
-*Projet de Fin d'Études — Année Académique 2025/2026*
+* Année Académique 2025/2026*
 
 [![Made with FastAPI](https://img.shields.io/badge/Made%20with-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
 [![Powered by React](https://img.shields.io/badge/Powered%20by-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev)
